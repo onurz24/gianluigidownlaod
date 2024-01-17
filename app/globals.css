@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,*::before,*::after{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+.Onur{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  flex-direction : column;
+  padding : 2em 0em 2em 0em;
+}
+  
