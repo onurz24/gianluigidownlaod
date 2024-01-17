@@ -16,7 +16,7 @@ export default function Home() {
         rounded-md
         p-4 mt-4 
         hover:bg-blue-600 transition duration-500 ease-in-out
-        
+        max-sm:m-4
         '
         >Kalorienrechner mit Harris Benedict Formel PAL-Faktor</Link>
     </main>
